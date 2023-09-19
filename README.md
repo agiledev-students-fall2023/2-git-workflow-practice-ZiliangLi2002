@@ -1,2 +1,7 @@
-# Git Practice
-A simple project to practice a few git/github workflows.  Replace the contents of this file with the contents indicated in the [instructions](./instructions.md).
+## An Interesting Article
+Harvard Business Review: [What Is It Like to Be a Software Engineer?](https://hbr.org/2021/07/career-crush-what-is-it-like-to-be-a-software-engineer) by Kelsey Alpaio.
+
+## What I found Interesting
+1. Although companies or software teams may use different task management tools, there are similarities between the structure of the tools. The author's software team used Jira, but events such as Sprint Planning, Daily Scrum, and Backlog Grooming are nearly identical with the events used in Agile.
+2. The author comprehensively described the interview process for software engineering. The resources recommended by the author such as Code2040 and “Cracking the Coding Interview” are helpful.
+3. The author claimed that building, testing, and maintaining software is the core skill set for software engineers. A big misconception is that software engineers just code. A large portion of the work is writing documentation to explain things to people or communicate or pitch ideas. 
